@@ -1,0 +1,7 @@
+Study Notes Nov 2021
+
+2021 11 02 Tue
+Review How to Use Git and Github 
+Installed Git Desktop
+Installed Sublime
+Reviewed Windows CMD
